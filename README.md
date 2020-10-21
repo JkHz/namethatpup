@@ -5,7 +5,7 @@ Created by Josh Hertz on October 20th, 2020
 
 ----
 ## How to get started
-1. Fork and clone down this repo from *URL*
+1. Fork and clone down this [repo](https://github.com/JkHz/namethatpup)
 
 2. Open a terminal window and run `npm install` to install dependencies.
 
@@ -62,7 +62,7 @@ Created by Josh Hertz on October 20th, 2020
 
 * Refactor **PupListEntry** to be a *stateful/class* component. Add a state property which will store the user input and render it to the screen.
 
-* Add a Form (*URL*) within **PupListEntry** to allow users to input a name for each pup. Remember to provide a place for the name to render ib tge screen.
+* Add a [Form](https://reactjs.org/docs/forms.html) within **PupListEntry** to allow users to input a name for each pup. Remember to provide a place for the name to render ib tge screen.
 
 *  When completed, user input should be updated immediately after being typed into the input field.
 
@@ -71,10 +71,8 @@ Created by Josh Hertz on October 20th, 2020
 
 ### Bonus Step: Replace dummy data with real data
 
-* Use the provided function in /lib/getPups.js to issue a GET request to the Dog API (https://dog.ceo/dog-api/)
+* Use the provided function in /lib/getPups.js to issue a GET request to the [Dog API](https://dog.ceo/dog-api/)
 
 * Replace the examplePupData with the data received from the API call.
 
 * When completed, a page refresh should render 5 new pup images.
-
-# namethatpup
