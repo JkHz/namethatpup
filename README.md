@@ -62,7 +62,7 @@ Created by Josh Hertz on October 20th, 2020
 
 * Refactor **PupListEntry** to be a *stateful/class* component. Add a state property which will store the user input and render it to the screen.
 
-* Add a [Form](https://reactjs.org/docs/forms.html) within **PupListEntry** to allow users to input a name for each pup. Remember to provide a place for the name to render ib tge screen.
+* Add a [Form](https://reactjs.org/docs/forms.html) within **PupListEntry** to allow users to input a name for each pup. Remember to provide a place for the name to render to the screen.
 
 *  When completed, user input should be updated immediately after being typed into the input field.
 
